@@ -1,0 +1,11 @@
+.dp{
+    width: 160px;
+    height: 200px;
+    border: none;
+    float:right;
+    border: 1px solid;
+    /* box-shadow: 3px 3px 4px 0px #bbb; */
+}
+.company{
+    font-weight: 600;
+}
